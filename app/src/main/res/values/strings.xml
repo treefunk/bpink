@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bpink</string>
+
+    <string-array name="characters">
+        <item>Jisoo</item>
+        <item>Rose</item>
+        <item>Lisa</item>
+        <item>Jennie</item>
+    </string-array>
+</resources>
